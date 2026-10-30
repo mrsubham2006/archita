@@ -1,0 +1,6 @@
+{
+  "name": "Archita's Pookie Birthday Wonderland 🎀",
+  "description": "An ultra-cute, interactive coquette birthday surprise wonderland for Archita (Lusi) with animations, musical surprises, virtual cake, polaroids, and love letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
